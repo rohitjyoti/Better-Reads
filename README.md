@@ -1,1 +1,3 @@
 # Better-Reads
+
+Better read is an application which is purely focused on the back-end and managing the heavy amount of data. This application provides user rating of the book, the author information, status which means the book is read or you are currently reading it. While the application the pretty much stateless I will say as I don’t won’t to restrict someone to login and then only browse over the books. At some point it has to be state-full just to know the user and serve them their status of book. where you can login via GitHub o-auth login.I am used Hosted Cassandra DB using DataStax Astra DB which provides hosted data instance.
